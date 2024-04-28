@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @HollisWill, Will Hollis
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Business Intelligence Analytics
-- 📫 How to reach me: Email: Williehollis49@gmail.com
-- 😄 Pronouns: ... He/Him
-
 ## Hey 👋, This is William Hollis
 [![Gmail Badge](https://img.shields.io/badge/-Williehollis49@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Williehollis49@gmail.com)](mailto:Williehollis49@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/willhollis66719916a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/willhollis66719916a/)](https://www.linkedin.com/in/www.linkedin.com/in/willhollis66719916a/) [![Github Badge](https://img.shields.io/badge/-HollisWill-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HollisWill/)](https://www.github.com/HollisWill/) <p align='left'>A data analyst with a strong foundation in statistics, mathematics, and data analysis techniques. Proficient in tools such as Excel and Tableau.  Working towards proficiency in SQL and PowerBi. I am eager to apply my skills to extract insights and drive decision-making processes. With a proactive approach and a passion for problem-solving.
