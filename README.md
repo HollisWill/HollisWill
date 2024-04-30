@@ -8,6 +8,12 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=HollisWill&show_icons=true&include_all_commits=true)](https://github.com/HollisWill/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollisWill&layout=compact)](https://github.com/HollisWill/github-readme-stats)
 
+# TripleTen_projects
+Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+I Project number | Title | Description ||
+1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company's low CR and retention rate. I| 
+2 | Machine Learning Customer Interaction Strategies | The project task was to help a fitness gym chain develop a customer retention strategy. I | 
+3 | A/A/B Test Analysis | The project task was to study the sales funnel and look at the results of an A/A/B test for a food products startup. I!
 
 
 
