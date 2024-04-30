@@ -10,10 +10,12 @@
 
 # TripleTen_projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
-I Project number | Title | Description ||
-1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company's low CR and retention rate. I| 
-2 | Machine Learning Customer Interaction Strategies | The project task was to help a fitness gym chain develop a customer retention strategy. I | 
-3 | A/A/B Test Analysis | The project task was to study the sales funnel and look at the results of an A/A/B test for a food products startup. I!
+
+BA, Website Conversion Rate/Cohort Analysis, Google Sheets, A business analytics project that analyzed cohort trends and sales conversion rates to identify key patterns and opportunities for increasing customer retention and optimizing the sales process.
+
+Sales Return Rates Project, Tableau, A project that analyzed sales return rates across various products and time periods, uncovering trends and patterns that informed targeted strategies to minimize returns and improve customer satisfaction.
+
+
 
 
 
