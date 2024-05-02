@@ -8,18 +8,11 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=HollisWill&show_icons=true&include_all_commits=true)](https://github.com/HollisWill/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollisWill&layout=compact)](https://github.com/HollisWill/github-readme-stats)
 
-# TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+Projects Portfoilo
 
 BA, Website Conversion Rate/Cohort Analysis, Google Sheets, A business analytics project that analyzed cohort trends and sales conversion rates to identify key patterns and opportunities for increasing customer retention and optimizing the sales process.
 
-Sales Return Rates Project, Tableau, A project that analyzed sales return rates across various products and time periods, uncovering trends and patterns that informed targeted strategies to minimize returns and improve customer satisfaction.
+Sales Return Rates Projects 1 & 2, Tableau, A project that analyzed sales return rates across various products and time periods, uncovering trends and patterns that informed targeted strategies to minimize returns and improve customer satisfaction.
 
 
 
-
-
-<!---
-HollisWill/HollisWill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
