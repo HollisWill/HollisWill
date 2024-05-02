@@ -10,8 +10,10 @@
 
 Projects Portfoilo
 - <b> Business Analytics Project, Website Conversion Funnel/Cohort Analysis (Google Sheets)</b>
+: <i>A business analytics project that analyzed cohort trends and sales conversion rates to identify key patterns and opportunities for increasing customer retention and optimizing the sales process.</i>
   - [Project Link](https://docs.google.com/spreadsheets/d/1cwtgN5IIEkxRgbCdJg0KVqNQvLCpd8lJiJpDFv7RIFs/edit?usp=sharing)
 - <b>Sales Return Rates Project (Tableau)</b>
+: <i>A project that analyzed sales return rates across various products and time periods, uncovering trends and patterns that informed targeted strategies to minimize returns and improve customer satisfaction.</i>
   - [Project Link](https://public.tableau.com/views/SalesReturnRatesProject/Story3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 - <b>Sales Return Rates Project, Second Part (Tableau) </b>
   - [Project Link](https://public.tableau.com/views/SalesReturnRatesProjectSecondPart/SalestoReturns?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
