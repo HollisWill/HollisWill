@@ -9,10 +9,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HollisWill&layout=compact)](https://github.com/HollisWill/github-readme-stats)
 
 Projects Portfoilo
-
-BA, Website Conversion Rate/Cohort Analysis, Google Sheets, A business analytics project that analyzed cohort trends and sales conversion rates to identify key patterns and opportunities for increasing customer retention and optimizing the sales process.
-
-Sales Return Rates Projects 1 & 2, Tableau, A project that analyzed sales return rates across various products and time periods, uncovering trends and patterns that informed targeted strategies to minimize returns and improve customer satisfaction.
-
-
+- <b> Business Analytics Project, Website Conversion Funnel/Cohort Analysis (Google Sheets)</b>
+  - [Project Link](https://docs.google.com/spreadsheets/d/1cwtgN5IIEkxRgbCdJg0KVqNQvLCpd8lJiJpDFv7RIFs/edit?usp=sharing)
+- <b>Sales Return Rates Project (Tableau)</b>
+  - [Project Link](https://public.tableau.com/views/SalesReturnRatesProject/Story3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- <b>Sales Return Rates Project, Second Part (Tableau) </b>
+  - [Project Link](https://public.tableau.com/views/SalesReturnRatesProjectSecondPart/SalestoReturns?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
